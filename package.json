@@ -16,6 +16,8 @@
     "chart.js": "^4.5.1",
     "date-fns": "^4.1.0",
     "firebase": "^12.6.0",
+    "html2canvas": "^1.4.1",
+    "jspdf": "^3.0.4",
     "react-chartjs-2": "^5.3.1",
     "react-confetti": "^6.4.0",
     "react-router-dom": "^6.30.2"
